@@ -5,4 +5,4 @@ April, 2021. The dataset was of a hypothetical airlines company named "Invistico
 to predict customer satisfaction levels with the highest accuracy, and finally to figure out the most impactful features that were effecting the 
 customer satisfaction. 
 
-The official team abstract for the project can be found [here]().
+The official team abstract for the project can be found [here](https://github.com/taukirazam16/Invistico-Airlines-Data-Analysis/blob/main/Invistico%20Airline%20Data%20Analysis/Abstract_Team%20Sandwich.pdf).
